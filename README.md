@@ -1,2 +1,3 @@
-# spark_test
-Test project for spark java framework with plain db connection
+* Execute spark_test.db file to import database.
+* Run the app
+* Check for results at: *localhost:4567/hello*
