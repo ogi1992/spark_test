@@ -18,7 +18,7 @@ public class ConnectionPool {
 
     // JDBC Driver Name & Database URL
     static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";
-    static final String JDBC_DB_URL = "jdbc:mysql://localhost:3306/spark_test";
+    static final String JDBC_DB_URL = "jdbc:mysql://localhost:3306/spark_test?useSSL=false";
 
     // JDBC Database Credentials
     static final String JDBC_USER = "root";
